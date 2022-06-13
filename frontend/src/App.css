@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  /* background-color: #61dafb; */
+  background-image: url(../public/image/black_background.jpg);
+  
+}
+.heading{
+  font-size: 50px;
+  color: azure;
+  /* font-family: 'Anek Malayalam', sans-serif; */
+
+  font-family: 'Dancing Script', cursive;
+  margin-top: 0px;
+  padding-top: 50px;
+  
+}
+
+.btn-homepage{
+  width: 60vw;
+  height:3.2em ;
+  font-size: 1.2em;
+  margin: 3ch;
+    /* font-family: 'Anek Malayalam', sans-serif; */
+
+}
+.btn-container{
+  margin:  80px 0;
+}
+.username{
+  color: azure;
+  font-family: 'Dancing Script', cursive;
+
+}
+.sign-form{
+  color: azure;
+  padding: 5px
+}
+
+
